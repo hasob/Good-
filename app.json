@@ -1,0 +1,33 @@
+{
+    "name": "🔱 𝐙𝐄 🔱",
+    "description": "User bot for telegram !",
+    "stack": "container",
+    "logo": "https://telegra.ph/file/bd0fde82d09f7681afc99.jpg",
+    "keywords": [
+        "python",
+        "chatbot",
+        "telegrambot"
+    ],
+    "env": {
+        "api_id": {
+            "description": "26004411",
+            "value": "",
+            "required": true
+        },
+        "api_hash": {
+            "description": "4b9a73c02e89da49ef7f7df8a7e30f65",
+            "value": "",
+            "required": true
+        },
+        "OWNER": {
+            "description": "6798245975",
+            "value": "",
+            "required": true
+        },
+        "bot_token": {
+            "description": "6720857511:AAEgLIT3fT751_jsMJwr8hr5KI-Qrgly0VA",
+            "value": "",
+            "required": true
+    }
+  }
+} 
